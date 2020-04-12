@@ -11,8 +11,6 @@ Write the client application for a kanban board.
 - Can add tasks to any list
 - Can move tasks from one column to another
 
-That's pretty much it!
-
 #### How to use
 
 Install:
