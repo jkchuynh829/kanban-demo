@@ -1,6 +1,8 @@
-# TripleByte Frontend Technical Question
+# Kanban Board Demo
 
-Build a the front end for a kanban board using whatever tools you want.
+Front end technical interview question example.
+
+Write the client application for a kanban board.
 
 #### Requirements:
 
